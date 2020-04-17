@@ -1,7 +1,17 @@
 .App {
   text-align: center;
 }
-
+.div-not{
+  width:150px;
+  padding:5px;
+  margin:3px;
+  border:solid 3px green;
+  border-radius: 5px;
+}
+.div-list{
+  width:170px;
+  padding:5px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

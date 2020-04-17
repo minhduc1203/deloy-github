@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2425661a-8e78-4e7d-86f2-10f5e09def94" name="Default Changelist" comment="" />
+    <list default="true" id="2425661a-8e78-4e7d-86f2-10f5e09def94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +18,14 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Duc" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aeT1s5giCkE29f1oUDPsZ093Xf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,12 +34,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,11 +50,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587094847993</updated>
-      <workItem from="1587094850665" duration="157000" />
+      <workItem from="1587094850665" duration="574000" />
+      <workItem from="1587103585404" duration="2585000" />
     </task>
+    <task id="LOCAL-00001" summary="Test commit">
+      <created>1587105280269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587105280269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="23" key="CommitChangelistDialog2" timestamp="1587105279819">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="223" y="23" key="CommitChangelistDialog2/0.23.1280.709@0.23.1280.709" timestamp="1587105279819" />
+    <state x="128" y="83" key="DiffContextDialog" timestamp="1587105242098">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="128" y="83" key="DiffContextDialog/0.23.1280.709@0.23.1280.709" timestamp="1587105242098" />
+    <state x="141" y="23" width="997" height="709" key="SettingsEditor" timestamp="1587105002522">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="141" y="23" width="997" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1587105002522" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1587105415581">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2/0.23.1280.709@0.23.1280.709" timestamp="1587105415581" />
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1587103888314">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1587103888314" />
+    <state x="423" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587105392994">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="423" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.709@0.23.1280.709" timestamp="1587105392994" />
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1587103536842">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1587103536842" />
   </component>
 </project>
